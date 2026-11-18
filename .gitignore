@@ -1,0 +1,6 @@
+# Keep this repository presentation-only.
+# Do not add source code, secrets, database exports, or patient data.
+.DS_Store
+Thumbs.db
+.env
+.env.*
